@@ -15,11 +15,12 @@ The purpose of this project is to generate a professional README.md file dynamic
 ---
 
 ##[Installation]
-The first step to install this generator is to use 'git clone' to clone the repository. The next step is to run 'npm install' in the terminal. This command automatically installs all required npm library packages from the package.json file. The last step is to run the command 'node index.js' in the terminal, and then answer all the prompted questions. Your new README.md file will be generated upon prompt completion.
+The first step to install this generator is to use 'git clone' to clone the repository. The next step is to run 'npm install' in the terminal. This command automatically installs all required npm library packages from the package.json file. The last step is to run the command 'node index.js' in the terminal, and then answer all the prompted questions. 
+Your new README.md file will be generated upon prompt completion.
 
 ##[Usage]
 This is a short walk-through video showing how to use this README generator from the terminal in VS Code editor. 
-[Video demo](["https://drive.google.com/file/d/12-mH3V2laQftkDh4Y6KCeUg66OLhEvID/preview"](https://drive.google.com/file/d/12-mH3V2laQftkDh4Y6KCeUg66OLhEvID/view))
+[Video demo](./video/DemoVideo.mp4)
 
 ##[Contribution]
 The following webpages were referenced to help implement the code that created this project. 
